@@ -5,7 +5,7 @@ title: Overview
 
 This is a personal website built for displaying past projects, skills, and documenting concepts and ideas!
 
-### Picture of ~~ a ~~ *THE* Goose.
+### Picture of ~~-a-~~ *THE* Goose.
 ![A very detailed mustached picture of a prim and propper goose. The picture is humbiling. As you look upon it, it fills you with a sense of wonder and a sense of awe; to a certain extent, it even seems quite humorous.](https://github.com/lukecashwell-alt/eportfolio/blob/master/public/apple-touch-icon-144-precomposed.png?raw=true)
 
 This is a picture of a goose. You might be wondering; why is there a picture of a goose? Well, that is a very good question, and a question that deserveres to be answered. Do you notice anything about this picture? Do you notice anything which seperates it from any other pictures of geese you may have seen. At first, probably not. There is nothing too noticable to the untrained eye. To help with your discerning, here are a few more pictures of your normal, everyday, *average* goose. 
