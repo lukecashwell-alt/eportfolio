@@ -18,7 +18,7 @@ Look at this goose. Examine it; examine it as it examines you. Yes. Yes this goo
 ## The Angry Goose
 ![A goose with its nose upturned. In anger at the camera man who dare to take a picture of its feathery white body.](https://github.com/lukecashwell-alt/eportfolio/blob/master/public/goose2.jpg?raw=true)
 
-This goose, oooh this goose... This goose turns its nose up at you. Its orange, smooth, *hairless* nose. If you stand still, it may go away; however, if you move a mussle, it will charge at you and bite your toes off.  
+This goose, oooh this goose... This goose turns its nose up at you: its orange, smooth, *hairless* nose. If you stand still, it may go away; however, if you move a mussle, it will charge at you and bite your toes off.  
 
 ## Another Goose?
 ![A goose that is kind of shorter and stumpier. It has a shorter kneck, oh wait.. it's a duck not a goose.](https://github.com/lukecashwell-alt/eportfolio/blob/master/public/goose3.jpg?raw=true)
