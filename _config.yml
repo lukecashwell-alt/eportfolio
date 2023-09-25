@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Luke Cashwell
+tagline:          'Me, Myself, and I all welcome you.'
+description:      'A personal website containing a specially curated portfolio.'
 url:              https://lukecashwell-alt.github.io/eportfolio
 baseurl:          https://lukecashwell-alt.github.io/eportfolio/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Luke Cashwell'
+  url:            https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 paginate:         5
 
